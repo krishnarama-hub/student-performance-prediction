@@ -1,18 +1,14 @@
 # Student Performance Prediction
 
 ## Description
-This project predicts students’ final grades based on input data such as study hours, attendance, and previous performance.  
+This project predicts students’ final grades based on input data such as Arthimatics operation.  
 The model uses machine learning (Random Forest / Linear Regression) to predict outcomes.
 
 ## Dataset
 Dataset includes student marks and study-related factors.
 
-## Libraries Used
-- pandas
-- numpy
-- scikit-learn
-- matplotlib
-- seaborn
+## Funtion Used
+- while loop
 
 ## How to Run
 1. Clone the repository
